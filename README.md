@@ -30,7 +30,10 @@ GesturePad is a real-time gesture recognition system that uses your hand to cont
 
 ## 📁 File Structure
 
-<pre><code> ``` GesturePad/ ├── Vm.py # Main application logic ├── util.py # Utility functions (angle, distance) └── README.md # You're reading it! ``` </code></pre>
+GesturePad/
+├── Vm.py # Main application logic
+├── util.py # Utility functions (angle, distance)
+└── README.md # You're reading it!
 
 ## 🚀 Getting Started
 
