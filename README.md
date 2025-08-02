@@ -45,7 +45,7 @@ cd GesturePad
 ### 2. Install dependencies:
 pip install opencv-python mediapipe pyautogui pynput numpy
 ### 3. Run the app:
-python Vm.py
+python Vm.py  
 Press Q to exit the app.
 
 ## 💡 Use Cases
