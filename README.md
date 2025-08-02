@@ -40,7 +40,7 @@ GesturePad is a real-time gesture recognition system that uses your hand to cont
 ## 🚀 Getting Started
 
 ### 1. Clone this repo:
-git clone https://github.com/H-arsha/GesturePad.git
+git clone https://github.com/H-arsha/GesturePad.git  
 cd GesturePad
 ### 2. Install dependencies:
 pip install opencv-python mediapipe pyautogui pynput numpy
