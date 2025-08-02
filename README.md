@@ -29,6 +29,7 @@ GesturePad is a real-time gesture recognition system that uses your hand to cont
 3. **Cursor Control**: Translates gestures to system-level mouse actions.
 
  ## 📁 File Structure 
+ 
 <pre>
 ``` GesturePad/ 
    ├── Vm.py # Main application logic 
@@ -48,11 +49,15 @@ python Vm.py
 Press Q to exit the app.
 
 ## 💡 Use Cases
-Touch-free PC interaction
-Accessibility control for differently-abled users
-Gesture-based presentations or demos
+
+🖥️ Touch-free PC interaction
+
+🧑‍🦽 Accessibility control for differently-abled users
+
+🎤 Gesture-based presentations or demos
 
 ## 📜 License
+
 This project is open-source under the MIT License.
 
 
